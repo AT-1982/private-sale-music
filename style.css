@@ -1,20 +1,48 @@
-body{
-    background-color: black;
-    text-align: center;
+body {
+  background: #00f260;
+  background: -webkit-linear-gradient(to right, #0575e6, #00f260);
+  background: linear-gradient(to right, #0575e6, #00f260);
+  text-align: center;
+  color: rgb(19, 19, 184);
+}
+header {
+  font-size: 50px;
+  padding-bottom: 50px;
 }
 
-.section-muse{
-    color: rgb(32, 107, 147);
+.section-muse {
+  color: black;
+  font-size: larger;
+  padding: 50px;
+  margin: 200px;
 }
 
-.section-mcr{
-    color: rgb(212, 190, 157);
+.section-mcr {
+  color: black;
+  font-size: larger;
+  font-style: bold;
+  padding: 50px;
+  margin: 200px;
 }
 
-.section-gd{
-
+.section-gd {
+  color: black;
+  font-size: larger;
+  padding: 50px;
+  margin: 200px;
 }
 
-img{
-    width: 600px;
+.formulaire {
+  padding-top: 100px;
+  color: rgb(19, 19, 184);
+}
+
+img {
+  width: 600px;
+}
+
+a {
+  font-size: 50px;
+  text-decoration: none;
+  list-style: none;
 }
